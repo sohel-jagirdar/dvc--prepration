@@ -20,6 +20,7 @@ download data from
 https://drive.google.com/drive/folders/1xw0XX-WK74uxtFFLySbtnX-ODdmdK5Ec
 
 ''' bash
+
 git init
 
 dvc init
